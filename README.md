@@ -6,6 +6,10 @@ Hi5 Productivity is a website that provides tools such as a to-do list and tip c
 
 ## 📸 Project Screenshots or Demo Link
 
+<img width="800" alt="hi5 homepage" src="https://user-images.githubusercontent.com/89995514/172067730-23c4a171-147d-4394-ad03-06dec23d10a1.png">
+<img width="800" alt="hi5-to-do-list" src="https://user-images.githubusercontent.com/89995514/172067811-f72130d2-0471-4e39-abbe-eef16db7fb2b.png">
+<img width="800" alt="hi5-tip-calculator" src="https://user-images.githubusercontent.com/89995514/172067814-9b0ba45f-e584-44ed-a100-a09aff5fdfc2.png">
+
 
 
 ## 📝 How to Use
@@ -35,6 +39,8 @@ cd <repo title>
 #### Installation:
 
 To Visit App:
+
+#### Download Live Server Extension and Go Live
 
 ### `localhost:3000` in web browser
 
