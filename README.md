@@ -7,7 +7,7 @@ Hi5 Productivity is a website that provides tools such as a to-do list and tip c
 ## 📸 Project Screenshots or Demo Link
 
 <img width="800" alt="hi5 homepage" src="https://user-images.githubusercontent.com/89995514/172068040-e47f77f7-855e-4091-b5ba-ad1b483433f4.png">
-<img width="800" alt="hi5-to-do-list" src="https://user-images.githubusercontent.com/89995514/172068041-eb125efc-07ba-45c5-9744-c54845e219d5.png">
+<img width="800" alt="hi5-to-do-list" src="https://user-images.githubusercontent.com/89995514/172068118-b37a0084-ea54-4043-815c-89e73fa66ca1.png">
 <img width="800" alt="hi5-tip-calculator" src="https://user-images.githubusercontent.com/89995514/172068043-a2a2027c-59cb-433d-a516-411d1ecceb34.png">
 
 
