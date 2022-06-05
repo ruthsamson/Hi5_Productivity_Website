@@ -39,9 +39,9 @@ cd <repo title>
 
 To Visit App:
 
-### Download Live Server Extension and Go Live
+Download Live Server Extension and Go Live
 
-### `localhost:3000` in web browser
+#### `localhost:3000` in web browser
 
 
 ## 🔨 Technologies
